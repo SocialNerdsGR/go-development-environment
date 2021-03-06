@@ -24,19 +24,19 @@ It is fully preconfigured for,
 git clone https://github.com/SocialNerdsGR/go-development-environment.git
 ~~~~
 
-#### 2 Open in VS Code,
+#### 2. Open in VS Code,
 ~~~~
 code .
 ~~~~
 
-#### 3 Install Remote - Containers in VS Code
+#### 3. Install Remote - Containers in VS Code,
 ~~~~
 ms-vscode-remote.remote-containers
 ~~~~
 
-#### 4 Click the new bottom left (green) button -> Remote Containers: Reopen in Container
+#### 4. Click the new bottom left (green) button -> Remote Containers: Reopen in Container.
 
-#### 5 "Go" make stuff :)
+#### 5. "Go" make stuff :)
 
 # By SocialNerds
 * [SocialNerds.gr](https://www.socialnerds.gr/)
