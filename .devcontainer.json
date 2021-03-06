@@ -1,0 +1,13 @@
+{
+  "dockerFile": "Dockerfile",
+  "appPort": [
+      "8000:8000"
+  ],
+  "extensions": [
+    "golang.go",
+    "windmilleng.vscode-go-autotest"
+  ],
+  "containerUser": "serveruser",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/go/src,type=bind,consistency=cached",
+  "workspaceFolder": "/go/src"
+}
